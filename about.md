@@ -1,0 +1,1 @@
+一个基于 Vue3 + TypeScript + Node.js 的全栈项目，实现了登录鉴权（JWT）、用户信息获取，以及 Todo 任务管理模块。后端基于 Express，使用中间件做权限控制，并接入 MongoDB 实现数据持久化。前端使用 Vue3 和 TypeScript，通过 Axios 与后端 API 交互，实现了用户登录、注册、获取用户信息和添加、删除、更新 Todo 任务的功能。
